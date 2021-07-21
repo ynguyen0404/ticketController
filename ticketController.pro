@@ -1,8 +1,8 @@
 QT  += quick
 QT  += core gui
-QT  += location
-QT  += positioning
-QT  += mqtt
+#QT  += location
+#QT  += positioning
+#QT  += mqtt
 
 LIBS +=-lgps
 
